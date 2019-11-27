@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Source+Sans+Pro&display=swap');
+
+h1 {
+    color: rgb(15, 189, 93);
+}
+h2{
+    color: darkmagenta;
+}
+p, ul, li {
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+  
+}
+
+body {
+    background-image:url("background\ 1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    box-sizing: border-box;
+    padding: 0px 450px 0px 450px;
+   
+    }
+
+.background {
+    background-image:url("background7.jpg");
+    background-repeat: no-repeat;
+    background-size:100% ;
+    background-attachment: fixed;
+    padding: 25px;
+}
